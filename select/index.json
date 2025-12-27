@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "そばにいたいな",
+  "base_artist": "Onephony",
+  "createdAt": "2025-12-27T13:27:41.806715Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そばにいたいな",
+      "artist": "Onephony",
+      "has_synced": false,
+      "path": "select/pl_01_そばにいたいな_Onephony.txt"
+    }
+  ]
+}
